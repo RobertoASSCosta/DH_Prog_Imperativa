@@ -3,7 +3,6 @@ let cores = ['Preto', 'Branco', 'Cinza'];
 console.log('O método push inserindo ou mais elementos ao fim.');
 cores.push('Marrom', 'Azul');
 
-
 console.log('O metodo pop() remove ultimo elemento do array.\n Alem de remover o elemento retorna o valor do mesmo, podendo assim ser armazenado em uma variável.');
 let ultimaCor = cores.pop();
 console.log(ultimaCor);
