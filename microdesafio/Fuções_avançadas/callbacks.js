@@ -1,6 +1,6 @@
 setTimeout ( function(){
     console.log('Olá Mundo!');
-}, 1000)
+}, 3000)
 
-let minhaCallback = ( ) => console.log('Olá Mundo!');
-setTimeout(minhaCallback, 1000);
+let saudacaoCallback = ( ) => console.log('Olá Mundo!');
+setTimeout(saudacaoCallback, 3000);
